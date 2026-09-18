@@ -36,4 +36,6 @@ while True:
     elif inp=="4":
         print("bye then have a great day!!")
         break
+    else:
+        print("invalid")
         
